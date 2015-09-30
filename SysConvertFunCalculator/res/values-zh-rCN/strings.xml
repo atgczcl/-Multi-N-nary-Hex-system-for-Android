@@ -1,0 +1,118 @@
+<resources>
+
+    <string name="app_name">高级进制计算器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">关于软件</string>
+
+    <!-- spinner -->
+    <string name="number_from">当前进制</string>
+    <string name="number_to">目标进制</string>
+    <string name="number_from_input">当前进制(不限)</string>
+    <string name="number_to_input">目标进制(不限)</string>
+    <string name="number_center">转成</string>
+    <string name="number_convert">转换</string>
+    <string name="number_title">输入数据:</string>
+    <string name="page1">一键转换</string>
+    <string name="page2">自定义</string>
+    <string name="page3">高级功能</string>
+    <string name="page4">使用说明</string>
+    <string name="now_number">选择当前进制:</string>
+    <string name="new_number">选择目标进制:</string>
+    <string name="defualt_num"></string>
+    <string name="pice"></string>
+    <string name="now_minHex_head">当前数据的最小进制是 &#x0020;</string>
+    <string name="now_minHex_tail">&#x0020;进制</string>
+
+    <string-array name="numbers">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+    </string-array>
+        <string name="page1_bt2">常用转换</string>
+        <string name="page1_bt1">一键转换</string>
+        <string name="page2_bt_clear">清除历史</string>
+        <string name="deffrom">10</string>
+        <string name="defto">2</string>
+        
+        <string name="info">一、关于软件：  \n  
+			软件名称：进制转换器终极版\n
+			开发者：龙在天涯\n
+			日期：2013.6.4\n
+			此软件支持常用进制的正负整数浮点数相互转换，希望此软件有助于您生活学习，如有疑问请联系：
+			atgczcl@163.com\n\n
+		二、使用说明：\n
+			1.普通版进制转换器\n
+			2.高级版任意进制互转\n
+			3.高级任意进制计算器\n\n
+			三、关于精度：\n
+		 	整数部分的精度相对较高，小数点部分的精度进制数越大精度会降低。\n\n
+			四、学习参考：\n
+		Java：BigInteger和BigDecimal \n
+		<a href="http://doc.java.sun.com/DocWeb/api/all/java.math.BigInteger">http://doc.java.sun.com/DocWeb/api/all/java.math.BigInteger</a>
+		 \n
+		 <a href="http://doc.java.sun.com/DocWeb/api/all/java.math.BigDecimal">http://doc.java.sun.com/DocWeb/api/all/java.math.BigDecimal</a>
+		  \n\n
+　　</string>
+        
+        <string name="page3_num">输入任意数据</string>
+        
+        <string name="page3_tips">注意:字符显示参考ASCII字符库，没有的不显示</string>
+        
+        <string name="page2_num_info">输入数据</string>
+        <string name="ascii_title">最大字符</string>
+        <string name="conver_nomal">常用进制</string>
+	    <string name="convert_calculate">多进制计算器</string>
+	    <string name="convert_high">趣味功能</string>
+	    <string name="convert_intro">软件说明</string>
+	    <string name="title_activity_conver_nomal">常用进制</string>
+	    <string name="title_activity_convert_high">趣味功能</string>
+	    <string name="exit_msg">再按一次退出程序</string>
+        
+	    <string name="title_activity_convert__calculater">多进制计算器</string>
+    <string name="calculate">=</string>
+    <string name="clc_data1">Data-1</string>
+    <string name="clc_data2">Data-2</string>
+    <string name="jia">+</string>
+    <string name="jian">-</string>
+    <string name="cheng">*</string>
+    <string name="chu">/</string>
+    <string name="yu">%</string>
+
+</resources>

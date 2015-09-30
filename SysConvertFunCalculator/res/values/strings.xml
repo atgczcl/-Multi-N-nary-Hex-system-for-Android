@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <string name="app_name">进制转换器</string>Interesting Number converter -->
+    <string name="app_name">Hex Convertor Calculator</string>
+    <string name="hello_world"> Hello world! </string>
+    <string name="menu_settings"> About Soft </string>
+    <string name="number_from"> hex </string>
+    <string name="number_to"> target hex </string>
+    <string name="number_from_input">From</string>
+    <string name="number_to_input">To</string>
+    <string name="number_center"> convert </string>
+    <string name="number_convert">convert </string>
+    <string name="number_title"> input data: </string>
+    <string name="page1">One key</string>
+    <string name="page2">Custom</string>
+    <string name="page3">Advanced </string>
+    <string name="page4">Help</string>
+    <string name="now_number"> select from: </string>
+    <string name="new_number"> select to: </string>
+    <string name="defualt_num"></string>
+    <string name="pice"></string>
+    <string name="now_minHex_head">The minimum hex of the current data is&#x0020;</string>
+    <string name="now_minHex_tail">&#x0020;hex</string>
+
+    <string-array name="numbers">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+    </string-array>
+
+    <string name="page1_bt2"> common </string>
+    <string name="page1_bt1"> Onekey </string>
+    <string name="page2_bt_clear"> Clear history </string>
+    <string name="deffrom"> 10 </string>
+    <string name="defto"> 2 </string>
+    <string name="info"> about the software:\n
+
+Software Name:Number convertor \n
+
+Developers: Dragon Fight \n
+
+Date: 2013.1.13 \n
+
+This software supports any hex positive and negative integers to floating-point conversion, hope this software helps you to study, if in doubt please 
+
+contact: <a href="mail to:atgczcl@163.com">atgczcl@163.com</a>\n
+ 
+
+Second, the instructions: \n
+0.New Hex calculator
+1.Ary interface single hex Interface, character 0-9 and A-Z(2-36) are not case-sensitive, are capitalized in the decimal point to 32. \n
+
+2. One key convert 2-36 hex and commonly used hex \n
+Third, with regard to the accuracy of: \n
+3.Hex normal 
+4.Hex pro
+
+ The integer part of the relatively high precision, the greater the accuracy of the accuracy of the decimal portion of hexadecimal number will be reduced. \n
+ 
+
+Fourth, Learning reference: \n
+
+Java: BigInteger and BigDecimal \n
+
+http://doc.java.sun.com/DocWeb/api/all/java.math.BigInteger \n
+
+ http://doc.java.sun.com/DocWeb/api/all/java.math.BigDecimal \n
+\n\n</string>
+    <string name="page3_num"> enter any data </string>
+    <string name="page3_tips"> Note:character reference ASCII characters library does not display </string>
+    <string name="page2_num_info"> input data </string>
+    <string name="ascii_title">MaxChar</string>
+    <string name="conver_nomal">Common Base</string>
+    <string name="convert_calculate">Hex Calculator</string>
+    <string name="convert_high">Amusing</string>
+    <string name="convert_intro">Soft Info</string>
+    <string name="title_activity_conver_nomal">Common Base</string>
+    <string name="title_activity_convert_high">amusing</string>
+    <string name="exit_msg">Click again exit!</string>
+    <string name="title_activity_convert__calculater">Convert_Calculator</string>
+    <string name="calculate">=</string>
+    <string name="clc_data1">Data-1</string>
+    <string name="clc_data2">Data-2</string>
+    <string name="jia">+</string>
+    <string name="jian">-</string>
+    <string name="cheng">*</string>
+    <string name="chu">/</string>
+    <string name="yu">%</string>
+
+</resources>
